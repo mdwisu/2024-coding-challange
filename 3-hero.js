@@ -1,3 +1,5 @@
+// WPU Coding Challange 2024
+// 3/366
 // https://www.codewars.com/kata/59ca8246d751df55cc00014c
 
 // function hero(bullets, dragons) {

@@ -1,4 +1,4 @@
-// Coding Challange 2024
+// WPU Coding Challange 2024
 // 2/366
 // https://www.codewars.com/kata/5a00e05cc374cb34d100000d
 
